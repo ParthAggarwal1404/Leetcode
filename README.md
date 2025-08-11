@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0234-palindrome-linked-list) |
 ## String
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0316-remove-duplicate-letters) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
