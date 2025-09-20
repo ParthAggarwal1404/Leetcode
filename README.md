@@ -82,4 +82,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
