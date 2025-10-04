@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0316-remove-duplicate-letters) |
 ## Monotonic Stack
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0011-container-with-most-water) |
 | [0169-majority-element](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
