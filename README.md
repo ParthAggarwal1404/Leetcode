@@ -71,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0217-contains-duplicate) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0011-container-with-most-water) |
 | [0169-majority-element](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
