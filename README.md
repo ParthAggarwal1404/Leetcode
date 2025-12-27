@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0231-power-of-two) |
 ## Tree
 |  |
 | ------- |
