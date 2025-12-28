@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
