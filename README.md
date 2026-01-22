@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0136-single-number) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0257-binary-tree-paths) |
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
