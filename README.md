@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0217-contains-duplicate) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 ## Array
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0260-single-number-iii) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0169-majority-element) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
