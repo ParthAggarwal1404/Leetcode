@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0075-sort-colors) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
