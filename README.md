@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0577-employee-bonus) |
 | [0596-classes-with-at-least-5-students](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/0596-classes-with-at-least-5-students) |
+| [1045-customers-who-bought-all-products](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1258-article-views-i](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/1258-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/ParthAggarwal1404/Java_Leetcode/tree/master/1527-patients-with-a-condition) |
 ## Dynamic Programming
